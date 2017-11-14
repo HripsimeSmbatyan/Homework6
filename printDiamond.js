@@ -1,6 +1,7 @@
-// printDiamond with recursion 
  <script>
-
+	 
+// printDiamond with recursion 
+	 
 const printDiamond = function(num, shnik) {
 	
 	const miacnox = function(n, char) {
@@ -25,7 +26,8 @@ const printDiamond = function(num, shnik) {
   printDiamond(5, '@');
 
  
-  // printDiamond with for loop
+// printDiamond with for loop
+
      const printDiamond = function(num, shnik) {
 	
 	const miacum = function(n, char) {
